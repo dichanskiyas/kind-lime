@@ -1,6 +1,6 @@
 ---
 id: "7"
-title: Sed consectetur
+title: Sed енове
 description: Fusce sed tortor id diam rhoncus accumsan.
 price: 130 ₽
 images:
