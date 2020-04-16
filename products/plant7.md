@@ -1,8 +1,8 @@
 ---
-id: '7'
+id: "7"
 title: Sed consectetur
 description: Fusce sed tortor id diam rhoncus accumsan.
-price: '18.90'
+price: 130 ₽
 images:
   default:
     thumbnail:
@@ -24,6 +24,6 @@ section: Store
 layout: product
 
 ---
-# Мороженко 
+# Sed consectetur
 
-Это крутой продукт, покупай не рабей
+Sed consectetur eleifend neque. Morbi fringilla velit neque, quis aliquet diam rutrum eget. Praesent dui leo, iaculis non auctor sed, accumsan at felis. Suspendisse eu pretium justo. Curabitur et velit quis justo elementum iaculis. Fusce sed tortor id diam rhoncus accumsan. In cursus sagittis eros non congue.
